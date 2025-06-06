@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Meriem
 
 🎓 Master's graduate and backend developer with a problem-solving mindset.  
+<br />
+
+> _"I care more about solving real problems than chasing the latest tech._  
+> _Learning deeply. Building intentionally. Thinking like an engineer."_
+
+<br />
 
 <table>
   <tr>
@@ -19,13 +25,6 @@
 
 ### Tools & Workflow  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) &nbsp; ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) &nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) &nbsp; ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) &nbsp; ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-
-<br />
-
-> _"I care more about solving real problems than chasing the latest tech._  
-> _Learning deeply. Building intentionally. Thinking like an engineer."_
-
-<br />
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriem-b-54b425337/)
