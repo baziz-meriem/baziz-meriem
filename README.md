@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Meriem
 
 🎓 Master's graduate and backend developer with a problem-solving mindset.  
-💼 Experience in fintech, working on real-world systems with clarity and depth.  
 
 <table>
   <tr>
